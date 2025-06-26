@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logeek
 - 👀 I’m interested in Software development,Machine learning...
-- 🌱 I’m currently learning Python,JavaScript 
+- 🌱 I’m currently learning Java,JavaScript 
 - 💞️ I’m looking to collaborate on Software development 
 - 📫 How to reach me on whatsapp: +2348023710562
 - 😄 Pronouns: He/him

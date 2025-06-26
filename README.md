@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLogeek
+- 👋 Hi, I’m @Logeek
 - 👀 I’m interested in Software development,Machine learning...
 - 🌱 I’m currently learning Python,JavaScript 
 - 💞️ I’m looking to collaborate on Software development 

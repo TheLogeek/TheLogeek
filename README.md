@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoloTech01
+- 👋 Hi, I’m @TheLogeek
 - 👀 I’m interested in Software development,Machine learning...
 - 🌱 I’m currently learning Python,JavaScript 
 - 💞️ I’m looking to collaborate on Software development 

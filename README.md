@@ -1,4 +1,4 @@
-# Solomon Adenuga (TheLogeek) 
+# Solomon Adenuga
 ### Specialized Python & Predictive Systems Engineer
 
 I build high-performance backends, predictive machine learning pipelines, and scalable data-driven applications that convert complex datasets into automated business logic.

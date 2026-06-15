@@ -48,6 +48,6 @@ By leveraging programmatic AI execution frameworks (Vibe Coding), I rapidly desi
 ## 🎯 Global Routing & Inbound Access
 I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting. 
 
-*   **Email:** [Your Professional Email Here]
+*   **Email:** solomonadenuga8@gmail.com
 *   **LinkedIn:** [Your LinkedIn Profile URL Here]
 *   **Availability:** Open to freelance contracts, specialized API/pipeline development, and full-time remote developer contracts.

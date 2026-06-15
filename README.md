@@ -49,5 +49,5 @@ By leveraging programmatic AI execution frameworks (Vibe Coding), I rapidly desi
 I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting. 
 
 *   **Email:** solomonadenuga8@gmail.com
-*   **LinkedIn:** [Your LinkedIn Profile URL Here]
+*   **LinkedIn:** https://www.linkedin.com/in/solomon-adenuga-6251a5316
 *   **Availability:** Open to freelance contracts, specialized API/pipeline development, and full-time remote developer contracts.

@@ -27,7 +27,7 @@ By leveraging programmatic AI execution frameworks (Vibe Coding), I rapidly desi
     *   *Link:* [🚀 View Live Demo](https://sales-forecaster-ml.streamlit.app)
     *   *Core Stack:* Python, Statsmodels / Scikit-learn, Streamlit.
     *   *Architecture:* An enterprise-grade revenue analytics engine utilizing classical time-series modeling to compute short-term financial projections, trends, and automated growth insights from historical sales arrays.
-*   **AI Bet Analyzer**
+*   **NBA Prophet Pro**
     *   *Core Stack:* Python, Scikit-learn, Advanced Data Scraping Engine.
     *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science[span_13](start_span)[span_13](end_span). Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
 

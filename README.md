@@ -29,15 +29,15 @@ By leveraging programmatic AI execution frameworks (Vibe Coding), I rapidly desi
     *   *Architecture:* An enterprise-grade revenue analytics engine utilizing classical time-series modeling to compute short-term financial projections, trends, and automated growth insights from historical sales arrays.
 *   **NBA Prophet Pro**
     *   *Core Stack:* Python, Scikit-learn, Advanced Data Scraping Engine.
-    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science[span_13](start_span)[span_13](end_span). Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
+    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science. Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
 
 ### 🤖 Orchestration, Automation & Specialized AI Tools
 *   **LogeekMind**
     *   *Core Stack:* Python, FastAPI, Next.js UI Interface, Multimodal LLM APIs.
-    *   *Architecture:* An intensive AI-driven academic productivity platform[span_16](start_span)[span_16](end_span). Engineered as a modular ecosystem featuring **10 specialized tool subsystems**, including multimodal vision processing nodes for complex, structured problem-solving.
+    *   *Architecture:* An intensive AI-driven academic productivity platform. Engineered as a modular ecosystem featuring **10 specialized tool subsystems**, including multimodal vision processing nodes for complex, structured problem-solving.
 *   **Scrylo**
     *   *Core Stack:* Python, Local Client Processing.
-    *   *Architecture:* A privacy-first B2B lead generation and outbound engine[span_19](start_span)[span_19](end_span). Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
+    *   *Architecture:* A privacy-first B2B lead generation and outbound engine. Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
 
 ---
 

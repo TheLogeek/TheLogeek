@@ -3,7 +3,7 @@
 
 I build high-performance backends, predictive machine learning pipelines, and scalable data-driven applications that convert complex datasets into automated business logic.
 
-By leveraging programmatic AI execution frameworks (Vibe Coding), I rapidly design and deploy end-to-end architectures—collapsing the timeline between backend engineering and frontend delivery. While fully proficient in standard cloud-backed and server-reliant architectures, my engineering edge specializes in designing highly optimized **local-first execution models, absolute client-side data privacy, and zero-server-overhead monetization paradigms (BYOK)**.
+By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapidly design and deploy end-to-end architectures—collapsing the timeline between backend engineering and frontend delivery. While fully proficient in standard cloud-backed and server-reliant architectures, my engineering edge specializes in designing highly optimized **local-first execution models, absolute client-side data privacy, and zero-server-overhead monetization paradigms (BYOK)**.
 
 ---
 

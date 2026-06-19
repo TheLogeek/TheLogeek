@@ -10,13 +10,25 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
 ## 🛠️ Tech Stack & Systems Capabilities
 
 *   **Core Systems & Pipelines:** Python (Expert), FastAPI, Streamlit, Robust Web Scraping, Complex Feature Engineering.
-*   **Data Science & Analytics:** Predictive Modeling, Classical Time-Series Forecasting, Statistical Analytics.
-*   **AI-Accelerated Interfaces:** Next.js (Fast UI/UX implementation via AI orchestration workflows).
-*   **Architectural Flexibility:** Dual-capability architecture. Proficient in standard client-server cloud systems, with niche specialization in Edge/Local-First Computing and Privacy-by-Design structures.
+*   **Data Science & Analytics:** Predictive Modeling, Classical Time-Series Forecasting, Statistical Analytics, Vector Similarity Search.
+*   **AI-Accelerated Interfaces:** React, Next.js, Vite (Fast UI/UX implementation via AI orchestration workflows).
+*   **Architectural Flexibility:** Dual-capability architecture. Proficient in standard client-server cloud systems, with niche specialization in Hybrid Edge/Serverless Computing, WASM-driven browser models, and Privacy-by-Design structures.
 
 ---
 
 ## 🚀 Featured Production Assets & Engineering Proofs
+
+### 🤖 Orchestration, Automation & Specialized AI Tools
+*   **RAG-Powered Proposal Synthesizer**
+    *   *Link:* [🚀 View Live Demo](https://rag-powered-proposal-synthesizer.vercel.app/)
+    *   *Core Stack:* Python, FastAPI (Vercel Serverless), React, @xenova/transformers (WASM), Numpy, Groq LLM API.
+    *   *Architecture:* A high-performance, hybrid client-side/serverless RAG application that generates targeted technical proposals. Shifts heavy text-embedding computations entirely to the user's browser using WASM, passing raw float arrays to a lightweight Python backend running vectorized cosine similarity via raw NumPy—bypassing heavy server container dependencies, database licenses, and infrastructure costs.
+*   **LogeekMind**
+    *   *Core Stack:* Python, FastAPI, Next.js UI Interface, Multimodal LLM APIs.
+    *   *Architecture:* An intensive AI-driven academic productivity platform. Engineered as a modular ecosystem featuring **10 specialized tool subsystems**, including multimodal vision processing nodes for complex, structured problem-solving.
+*   **Scrylo**
+    *   *Core Stack:* Python, Local Client Processing.
+    *   *Architecture:* A privacy-first B2B lead generation and outbound engine[span_0](start_span)[span_0](end_span). Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
 
 ### 📊 Predictive Modeling, Forecasting & Analytics Engines
 *   **Nexus-Tech-Dashboard (Predictive Retention Engine)**
@@ -29,26 +41,18 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
     *   *Architecture:* An enterprise-grade revenue analytics engine utilizing classical time-series modeling to compute short-term financial projections, trends, and automated growth insights from historical sales arrays.
 *   **NBA Prophet Pro**
     *   *Core Stack:* Python, Scikit-learn, Advanced Data Scraping Engine.
-    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science. Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
-
-### 🤖 Orchestration, Automation & Specialized AI Tools
-*   **LogeekMind**
-    *   *Core Stack:* Python, FastAPI, Next.js UI Interface, Multimodal LLM APIs.
-    *   *Architecture:* An intensive AI-driven academic productivity platform. Engineered as a modular ecosystem featuring **10 specialized tool subsystems**, including multimodal vision processing nodes for complex, structured problem-solving.
-*   **Scrylo**
-    *   *Core Stack:* Python, Local Client Processing.
-    *   *Architecture:* A privacy-first B2B lead generation and outbound engine. Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
+    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science[span_1](start_span)[span_1](end_span). Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
 
 ---
 
 ## 📈 System Metrics & Contribution Log
-*   **Active Repositories:** 38 production, utility, and research assets.
+*   **Active Repositories:** 39 production, utility, and research assets.
 *   **Core Strategy:** Maximizing compute efficiency—whether engineering high-availability server APIs or shifting intelligence to the client edge to eliminate cloud overhead.
 
 ---
 
 ## 🎯 Global Routing & Inbound Access
-I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting. 
+I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting[span_2](start_span)[span_2](end_span). 
 
 *   **Email:** solomonadenuga8@gmail.com
 *   **LinkedIn:** https://www.linkedin.com/in/solomon-adenuga-6251a5316

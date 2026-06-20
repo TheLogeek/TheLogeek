@@ -19,6 +19,13 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
 ## 🚀 Featured Production Assets & Engineering Proofs
 
 ### 🤖 Orchestration, Automation & Specialized AI Tools
+
+* **Edge Proctoring & Attention Tracking Engine**
+    * *Link:* [🚀 View Live Demo](https://edge-proctoring-system.vercel.app)
+    * *Core Stack:* Python, Pyodide (WASM), React, MediaPipe, NumPy.
+    * *Architecture:* A zero-server-overhead, client-side computer vision and ML pipeline. Face landmarks stream at 30 FPS into an in-browser Python WebAssembly runtime (Pyodide). Features a hybrid ensemble decision layer running custom trigonometric rule engines alongside a zero-dependency Logistic Regression classifier executing raw JSON-exported model weights directly on the client edge to calculate real-time behavioral focus vectors ($0 cloud compute footprint).
+
+
 *   **RAG-Powered Proposal Synthesizer**
     *   *Link:* [🚀 View Live Demo](https://rag-powered-proposal-synthesizer.vercel.app/)
     *   *Core Stack:* Python, FastAPI (Vercel Serverless), React, @xenova/transformers (WASM), Numpy, Groq LLM API.

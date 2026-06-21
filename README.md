@@ -37,7 +37,7 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
 *   **Scrylo**
     *   *Link:* [🚀 Viait website](https://scrylo.site)
     *   *Core Stack:* Python, Local Client Processing.
-    *   *Architecture:* A privacy-first B2B lead generation and outbound engine[span_0](start_span)[span_0](end_span). Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
+    *   *Architecture:* A privacy-first B2B lead generation and outbound engine. Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
 
 ### 📊 Predictive Modeling, Forecasting & Analytics Engines
 *   **Nexus-Tech-Dashboard (Predictive Retention Engine)**

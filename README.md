@@ -48,7 +48,7 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
     *   *Architecture:* An enterprise-grade revenue analytics engine utilizing classical time-series modeling to compute short-term financial projections, trends, and automated growth insights from historical sales arrays.
 *   **NBA Prophet Pro**
     *   *Core Stack:* Python, Scikit-learn, Advanced Data Scraping Engine.
-    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science[span_1](start_span)[span_1](end_span). Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
+    *   *Architecture:* A high-fidelity machine learning pipeline built for sports data science. Processes an engineered feature matrix containing **200+ variables** for high-precision basketball outcome forecasting.
 
 ---
 
@@ -59,7 +59,7 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
 ---
 
 ## 🎯 Global Routing & Inbound Access
-I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting[span_2](start_span)[span_2](end_span). 
+I am currently optimizing for high-yield remote engineering roles, international freelance contracts, and technical advisory consulting. 
 
 *   **Email:** solomonadenuga8@gmail.com
 *   **LinkedIn:** https://www.linkedin.com/in/solomon-adenuga-6251a5316

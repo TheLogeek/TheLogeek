@@ -23,7 +23,7 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
 * **DriftShield AI**
     * *Link:* [🛠️ Repository Link](https://github.com/TheLogeek/driftshield-ai)
     * *Core Stack:* Python, FastAPI, SQLite, Streamlit, SciPy, NumPy.
-    * *Architecture:* A local-first, zero-overhead MLOps monitoring engine built to track production feature distributions and model degradation without cloud infrastructure fees. Implements a decoupled, asynchronous background pipeline that matches raw incoming inferences against statistical baselines using two-sample Kolmogorov-Smirnov and Chi-Square tests[span_4](start_span)[span_4](end_span). Integrates a Benjamini-Hochberg False Discovery Rate (FDR) correction layer across rolling validation windows to suppress multiple-comparison alert noise and guarantee an active false-positive rate under 5%.
+    * *Architecture:* A local-first, zero-overhead MLOps monitoring engine built to track production feature distributions and model degradation without cloud infrastructure fees. Implements a decoupled, asynchronous background pipeline that matches raw incoming inferences against statistical baselines using two-sample Kolmogorov-Smirnov and Chi-Square tests. Integrates a Benjamini-Hochberg False Discovery Rate (FDR) correction layer across rolling validation windows to suppress multiple-comparison alert noise and guarantee an active false-positive rate under 5%.
 
 
 * **Edge Proctoring & Attention Tracking Engine**

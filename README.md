@@ -31,9 +31,11 @@ By leveraging programmatic AI execution frameworks (AI-Assisted Coding), I rapid
     *   *Core Stack:* Python, FastAPI (Vercel Serverless), React, @xenova/transformers (WASM), Numpy, Groq LLM API.
     *   *Architecture:* A high-performance, hybrid client-side/serverless RAG application that generates targeted technical proposals. Shifts heavy text-embedding computations entirely to the user's browser using WASM, passing raw float arrays to a lightweight Python backend running vectorized cosine similarity via raw NumPy—bypassing heavy server container dependencies, database licenses, and infrastructure costs.
 *   **LogeekMind**
+    *   *Link:* [🚀 View Live Demo](https://logeekmind.xyz)
     *   *Core Stack:* Python, FastAPI, Next.js UI Interface, Multimodal LLM APIs.
     *   *Architecture:* An intensive AI-driven academic productivity platform. Engineered as a modular ecosystem featuring **10 specialized tool subsystems**, including multimodal vision processing nodes for complex, structured problem-solving.
 *   **Scrylo**
+    *   *Link:* [🚀 View Live Demo](https://scrylo.site)
     *   *Core Stack:* Python, Local Client Processing.
     *   *Architecture:* A privacy-first B2B lead generation and outbound engine[span_0](start_span)[span_0](end_span). Built intentionally to eliminate fragile, credential-dependent automation loops by enforcing a secure, client-side manual data export.
 
